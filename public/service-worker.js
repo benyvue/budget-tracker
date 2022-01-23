@@ -1,5 +1,5 @@
 //cache name
-const CACHE_NAME = 'budget-tracker-pwa'
+const CACHE_NAME = 'budget-tracker'
 //data cache name
 const DATA_CACHE_NAME = 'data-cache-budget'
 
